@@ -6,9 +6,11 @@ Conflict 1
 
 resolved
 
-<<<<<<< HEAD
+
 adding info for second branch
-=======
+
 change
->>>>>>> 77f1faa4a14e8c12169b99f191a49ed7848698f0
+
+resolved branch conflicts
+
 
