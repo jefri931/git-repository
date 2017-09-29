@@ -6,3 +6,5 @@ Conflict 1
 
 resolved
 
+change
+
